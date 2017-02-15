@@ -266,14 +266,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
-  height: 60px;
-  background-image: url("images/logo-header.png");
+  width: 209px;
+  height: 106px;
+  background-image: url("images/logo.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 60px;
-  -moz-background-size: 165px 60px;
-  background-size: 165px 60px;
+  -webkit-background-size: 209px 106px;
+  -moz-background-size: 209px 106px;
+  background-size: 209px 106px;
 }
 .main-body {
   margin-top: -60px;
@@ -370,7 +370,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 70px;
+  line-height: 116px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1617,11 +1617,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 132px;
-  height: 48px;
-  -webkit-background-size: 132px 48px;
-  -moz-background-size: 132px 48px;
-  background-size: 132px 48px;
+  width: 167.20000000000002px;
+  height: 84.80000000000001px;
+  -webkit-background-size: 167.20000000000002px 84.80000000000001px;
+  -moz-background-size: 167.20000000000002px 84.80000000000001px;
+  background-size: 167.20000000000002px 84.80000000000001px;
 }
 i.icon {
   display: inline-block;
